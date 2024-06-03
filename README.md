@@ -11,5 +11,5 @@ Meu nome é Anita
   00001110143242SP@al.educacao.sp.gov.br
   
 
-![image](https://github.com/Aniiravey/Aniiravey/assets/170958648/b3970783-5772-4a6c-aab8-e01176bb6bc1)
+![](https://github.com/Aniiravey/Aniiravey/assets/170958648/b3970783-5772-4a6c-aab8-e01176bb6bc1)
 
